@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Palenight Theme",
+    "window.zoomLevel": 2,
+    "git.autofetch": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.formatOnSave": true,
+    "better-comments.multilineComments": true
+}
